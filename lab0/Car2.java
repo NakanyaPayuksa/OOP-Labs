@@ -1,3 +1,4 @@
+package lab0;
 public class Car2 {
     // Multiple Constructors
     public int speed;

@@ -29,7 +29,9 @@ class Book {
 
     public String getAuthor() {
             return this.author = author;
+    }
 
-    public
+    public double getPrice() {
+            return this.price = price;
     }
 }
